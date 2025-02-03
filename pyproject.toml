@@ -1,6 +1,6 @@
 [project]
 name = "install-qt-creator"
-version = "2025.2.2.0"
+version = "2025.2.3.1"
 description = "install qt creator using MSYS2"
 readme = "README.md"
 requires-python = ">=3.10"
