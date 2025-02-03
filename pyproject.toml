@@ -10,7 +10,7 @@ dependencies = ["pywin32>=308"]
 Repository = "https://github.com/soda92/install-qt-creator"
 
 [project.scripts]
-install-qt-creator = "install_qt_creator.hello:main"
+install-qt-creator = "install_qt_creator.main:main"
 
 [build-system]
 requires = ["hatchling"]
